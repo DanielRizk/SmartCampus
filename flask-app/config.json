@@ -1,0 +1,4 @@
+{
+    "chirpstack_api_url": "http://chirpstack-rest-api:8090",
+    "api_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJjaGlycHN0YWNrIiwiaXNzIjoiY2hpcnBzdGFjayIsInN1YiI6IjBiMGI0OGEwLTIxNDktNDVjNS05NTg5LWExNDg4ZDQwNTI2NiIsInR5cCI6ImtleSJ9.9OjDHaxpdxZkUmrItchGJ86jxVn8E5SS3HwfP8Tma_o"
+}
